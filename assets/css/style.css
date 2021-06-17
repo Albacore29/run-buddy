@@ -278,6 +278,21 @@ section {
     color: #fce138;
 }
 
+.page-title {
+    color: #fce138;
+}
+
+.h2 {
+    display: inline-block;
+    border-bottom: 4px;
+    border-style: solid;
+    color: #fce138;
+    padding: 0 80 15 80;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
 
 
 
